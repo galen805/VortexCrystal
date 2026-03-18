@@ -1,0 +1,11 @@
+parameter,value
+Bu,1
+Rog,10
+nu,1e-09
+mu,0.01
+R,5
+Nr,80
+Nphi,256
+forcing target rms,1
+forcing OU correlation time,1
+forcing filter scale,0.2454369260617026
